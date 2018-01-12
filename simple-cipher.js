@@ -15,3 +15,4 @@ for (var i = 0; i <= 'abcdefg'.length - 6; i++) {
 // console.log(pos); // 101
 // console.log(letter);
 // console.log(String.fromCodePoint(101)); //e
+// hello from amy
